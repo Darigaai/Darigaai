@@ -22,7 +22,7 @@
     <li>Currently working on an open-source project called 
         <strong>CamAI-Search</strong>
     </li>
-    <li>Graduated with a degree in Computer Science and 3.5 years of experience as a Python developer</li>
+    <li>Graduated with a degree in Computer Science and 1 years of experience as a Python developer</li>
     <li>Passionate about various technologies including Django, RESTful, FastAPI and more</li>
     <li>Active on social media 
         <a href="https://t.me/dariigga">Telegram</a> and 
@@ -147,7 +147,7 @@ print(lsb.reveal('secret_image.png'))
     <img width="15px" height="15px" src="./icons/gmail.png" />
     <img width="15px" height="15px" src="./icons/instagram.png" />
     <br>
-    <a href='https://t.me/dariigga'>Telegram</a> -
+    <a href='https://t.me/dariigga'>Telegram</a> 
 </div>
 
 <!-- Footer  -->
